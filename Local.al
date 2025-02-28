@@ -14,6 +14,10 @@ table 500100 FirstTable
             DataClassification = ToBeClassified;
 
         }
+        field(3; Phno; Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
